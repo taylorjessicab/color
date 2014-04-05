@@ -1,0 +1,36 @@
+html {
+  background:#bbb;
+  }
+
+body {
+  text-align:center;
+  }
+ 
+.system {
+  display:inline-block;
+  vertical-align:top;
+  margin:3em 2em;
+  }
+
+.color {
+  margin:3em 0 3em;
+  width:180px;
+  height:180px;
+  }
+
+#rgbcolor, #sixcolor {
+  background:#000000;
+  }
+
+#cmycolor, #cmysixcolor {
+  background:#ffffff;
+  }
+
+input {
+  display:block;
+  margin:0 auto 2em;
+  }
+  
+.value {
+  height:1em;
+  }
